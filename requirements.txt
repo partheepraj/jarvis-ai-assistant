@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+streamlit
+pandas
+scikit-learn
+psutil
+comtypes
+pycaw

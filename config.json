@@ -1,0 +1,6 @@
+{
+    "safe_mode": true,
+    "log_file": "agent.log",
+    "max_memory": 100,
+    "dangerous_commands": ["shutdown", "restart", "delete_file", "hibernate"]
+}

@@ -1,0 +1,71 @@
+text,label
+open chrome,open_app
+open browser,open_app
+start chrome,open_app
+close chrome,close_app
+exit chrome,close_app
+turn off wifi,wifi_off
+disable wifi,wifi_off
+turn on wifi,wifi_on
+enable wifi,wifi_on
+turn on bluetooth,bluetooth_on
+turn off bluetooth,bluetooth_off
+delete file,delete_file
+remove file,delete_file
+create file,create_file
+make file,create_file
+shutdown system,shutdown
+restart system,restart
+list files,list_files
+show files,list_files
+system info,system_info
+open notepad,open_app
+start word,open_app
+open word,open_app
+close word,close_app
+open powerpoint,open_app
+start powerpoint,open_app
+close powerpoint,close_app
+play music,play_music
+stop music,stop_music
+volume up,volume_up
+volume down,volume_down
+mute,volume_mute
+unmute,volume_unmute
+turn volume up,volume_up
+turn volume down,volume_down
+increase volume,volume_up
+decrease volume,volume_down
+make louder,volume_up
+make quieter,volume_down
+volume louder,volume_up
+volume quieter,volume_down
+turn up volume,volume_up
+turn down volume,volume_down
+mute volume,volume_mute
+unmute volume,volume_unmute
+mute sound,volume_mute
+unmute sound,volume_unmute
+set volume to 50,volume_up
+set volume to 10,volume_down
+set volume to 100,volume_up
+set volume to 1,volume_down
+turn down volume to 50,volume_down
+turn up volume to 80,volume_up
+increase volume to 70,volume_up
+decrease volume to 30,volume_down
+set volume to 50%,volume_up
+set volume to 30%,volume_down
+search web,search_web
+what is the weather,weather
+tell me a joke,joke
+set reminder,set_reminder
+show calendar,calendar
+take screenshot,screenshot
+lock computer,lock
+hibernate,hibernate
+sleep,sleep
+search for python,search_web
+find ai tutorials,search_web
+look up weather,search_web
+google machine learning,search_web

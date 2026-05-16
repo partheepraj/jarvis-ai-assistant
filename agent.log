@@ -1,0 +1,551 @@
+2026-04-06 17:19:03,186 - INFO - Model loaded successfully
+2026-04-06 17:19:20,675 - INFO - Command received: open chrome
+2026-04-06 17:19:20,677 - INFO - Classified intent: open_app
+2026-04-06 17:19:20,690 - INFO - Response: Opened Chrome
+2026-04-06 17:22:41,921 - INFO - Model loaded successfully
+2026-04-06 17:23:42,869 - INFO - Model loaded successfully
+2026-04-06 17:24:01,989 - INFO - Compound command results: Opened Edge | App not recognized
+2026-04-06 17:25:54,757 - INFO - Model loaded successfully
+2026-04-06 17:26:40,613 - INFO - Model loaded successfully
+2026-04-06 17:27:10,098 - ERROR - Model files not found. Please run train_model.py
+2026-04-06 17:27:43,642 - ERROR - Model files not found. Please run train_model.py
+2026-04-06 17:27:47,938 - INFO - Compound command results: I don't know how to do that yet. | I don't know how to do that yet.
+2026-04-06 17:29:00,692 - INFO - Compound command results: I don't know how to do that yet. | I don't know how to do that yet.
+2026-04-06 17:30:19,932 - ERROR - Model files not found. Please run train_model.py
+2026-04-06 17:30:19,933 - INFO - Compound command results: I don't know how to do that yet. | I don't know how to do that yet.
+2026-04-06 17:30:58,462 - ERROR - Model files not found. Please run train_model.py
+2026-04-06 17:30:58,462 - INFO - Compound command results: I don't know how to do that yet. | I don't know how to do that yet.
+2026-04-06 17:31:18,029 - ERROR - Model files not found. Please run train_model.py
+2026-04-06 17:31:18,030 - INFO - Compound command results: I don't know how to do that yet. | I don't know how to do that yet.
+2026-04-06 17:31:38,899 - ERROR - Model files not found. Please run train_model.py
+2026-04-06 17:31:38,899 - INFO - Compound command results: I don't know how to do that yet. | I don't know how to do that yet.
+2026-04-06 17:32:37,775 - INFO - Model loaded successfully
+2026-04-06 17:32:37,879 - INFO - Compound command results: Opened Chrome | Opened browser and searched for: ai
+2026-04-06 17:33:26,023 - INFO - Model loaded successfully
+2026-04-06 17:33:26,117 - INFO - Compound command results: Opened Chrome | Opened browser and searched for: ai
+2026-04-06 17:34:20,916 - INFO - Model loaded successfully
+2026-04-06 17:34:34,115 - INFO - Compound command results: Opened Chrome | Opened browser and searched for: ai
+2026-04-06 17:35:06,509 - INFO - Compound command results: Opened Edge | Opened browser and searched for: bi
+2026-04-06 17:35:32,034 - INFO - Compound command results: Opened Chrome | Opened browser and searched for: class
+2026-04-06 17:37:57,965 - INFO - Compound command results: Opened Chrome | Opened browser and searched for: class
+2026-04-06 17:39:40,279 - INFO - Model loaded successfully
+2026-04-06 17:39:55,386 - INFO - Special command result: Opened Chrome and searched for: bi
+2026-04-06 17:42:35,548 - INFO - Model loaded successfully
+2026-04-06 17:42:35,613 - INFO - Could not import comtypes.gen, trying to create it.
+2026-04-06 17:42:35,614 - INFO - Created comtypes.gen directory: 'C:\Users\partheep\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2026-04-06 17:42:35,614 - INFO - Writing __init__.py file: 'C:\Users\partheep\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen\__init__.py'
+2026-04-06 17:42:35,627 - INFO - Using writeable comtypes cache directory: 'C:\Users\partheep\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2026-04-06 17:42:35,641 - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2026-04-06 17:42:35,645 - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-04-06 17:42:35,704 - INFO - # Generating comtypes.gen.SpeechLib
+2026-04-06 17:42:35,709 - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2026-04-06 17:42:35,710 - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2026-04-06 17:42:35,714 - INFO - # Generating comtypes.gen.stdole
+2026-04-06 17:43:00,793 - INFO - Model loaded successfully
+2026-04-06 17:46:26,486 - INFO - Model loaded successfully
+2026-04-06 17:47:26,287 - INFO - Model loaded successfully
+2026-04-06 17:47:30,957 - INFO - Command received: search web
+2026-04-06 17:47:30,958 - INFO - Classified intent: search_web
+2026-04-06 17:47:30,977 - INFO - Response: Opened Chrome and searched for: 
+2026-04-06 17:47:38,063 - INFO - Command received: volume up
+2026-04-06 17:47:38,064 - INFO - Classified intent: search_web
+2026-04-06 17:47:38,079 - INFO - Response: Opened Chrome and searched for: volume up
+2026-04-06 17:47:38,287 - INFO - Command received: volume up
+2026-04-06 17:47:38,288 - INFO - Classified intent: search_web
+2026-04-06 17:47:38,294 - INFO - Response: Opened Chrome and searched for: volume up
+2026-04-06 17:48:14,933 - INFO - Model loaded successfully
+2026-04-06 17:48:29,542 - INFO - Special command result: Opened Chrome and searched for: python
+2026-04-06 17:49:43,812 - INFO - Model loaded successfully
+2026-04-06 17:51:07,890 - INFO - Command received: open excel
+2026-04-06 17:51:07,892 - INFO - Classified intent: open_app
+2026-04-06 17:51:07,905 - INFO - Response: Opened Excel
+2026-04-06 17:52:30,821 - INFO - Model loaded successfully
+2026-04-06 17:52:49,226 - INFO - Command received: volume up
+2026-04-06 17:52:49,227 - INFO - Classified intent: search_web
+2026-04-06 17:52:49,246 - INFO - Response: Opened Chrome and searched for: volume up
+2026-04-06 17:53:01,283 - INFO - Command received: increase my volume
+2026-04-06 17:53:01,285 - INFO - Classified intent: open_app
+2026-04-06 17:53:01,285 - INFO - Response: App not recognized
+2026-04-06 17:53:06,269 - INFO - Command received: increase my volume
+2026-04-06 17:53:06,270 - INFO - Classified intent: open_app
+2026-04-06 17:53:06,270 - INFO - Response: App not recognized
+2026-04-06 17:54:56,230 - INFO - Model loaded successfully
+2026-04-06 17:54:56,231 - INFO - Command received: volume up
+2026-04-06 17:54:56,231 - INFO - Classified intent: search_web
+2026-04-06 17:54:56,244 - INFO - Response: Opened Chrome and searched for: volume up
+2026-04-06 17:56:15,712 - INFO - Model loaded successfully
+2026-04-06 17:56:15,713 - INFO - Command received: volume up
+2026-04-06 17:56:15,714 - INFO - Classified intent: search_web
+2026-04-06 17:56:15,726 - INFO - Response: Opened Chrome and searched for: volume up
+2026-04-06 17:56:15,727 - INFO - Command received: turn volume up
+2026-04-06 17:56:15,727 - INFO - Classified intent: search_web
+2026-04-06 17:56:15,740 - INFO - Response: Opened Chrome and searched for: turn volume up
+2026-04-06 17:56:15,740 - INFO - Command received: increase volume
+2026-04-06 17:56:15,741 - INFO - Classified intent: open_app
+2026-04-06 17:56:15,741 - INFO - Response: App not recognized
+2026-04-06 17:56:51,108 - INFO - Model loaded successfully
+2026-04-06 17:56:51,109 - INFO - Command received: volume up
+2026-04-06 17:56:51,110 - INFO - Classified intent: volume_up
+2026-04-06 17:56:51,136 - INFO - Response: Volume control not available: 'AudioDevice' object has no attribute 'Activate'
+2026-04-06 17:56:51,136 - INFO - Command received: turn volume up
+2026-04-06 17:56:51,137 - INFO - Classified intent: volume_up
+2026-04-06 17:56:51,161 - INFO - Response: Volume control not available: 'AudioDevice' object has no attribute 'Activate'
+2026-04-06 17:56:51,161 - INFO - Command received: increase volume
+2026-04-06 17:56:51,161 - INFO - Classified intent: volume_up
+2026-04-06 17:56:51,184 - INFO - Response: Volume control not available: 'AudioDevice' object has no attribute 'Activate'
+2026-04-06 17:57:12,704 - INFO - Model loaded successfully
+2026-04-06 17:57:12,704 - INFO - Command received: volume up
+2026-04-06 17:57:12,705 - INFO - Classified intent: volume_up
+2026-04-06 17:57:13,085 - INFO - Response: Volume increased (using PowerShell)
+2026-04-06 17:57:27,279 - INFO - Model loaded successfully
+2026-04-06 17:57:27,279 - INFO - Command received: turn volume up
+2026-04-06 17:57:27,280 - INFO - Classified intent: volume_up
+2026-04-06 17:57:27,545 - INFO - Response: Volume increased (using PowerShell)
+2026-04-06 17:57:27,546 - INFO - Command received: turn volume down
+2026-04-06 17:57:27,546 - INFO - Classified intent: volume_down
+2026-04-06 17:57:27,833 - INFO - Response: Volume decreased (using PowerShell)
+2026-04-06 17:57:27,834 - INFO - Command received: mute
+2026-04-06 17:57:27,834 - INFO - Classified intent: open_app
+2026-04-06 17:57:27,834 - INFO - Response: App not recognized
+2026-04-06 17:58:29,939 - INFO - Model loaded successfully
+2026-04-06 17:58:29,939 - INFO - Command received: mute
+2026-04-06 17:58:29,940 - INFO - Classified intent: volume_mute
+2026-04-06 17:58:30,236 - INFO - Response: Volume muted (using PowerShell)
+2026-04-06 17:58:30,236 - INFO - Command received: unmute
+2026-04-06 17:58:30,237 - INFO - Classified intent: volume_unmute
+2026-04-06 17:58:30,516 - INFO - Response: Volume unmuted (using PowerShell)
+2026-04-06 17:59:08,777 - INFO - Model loaded successfully
+2026-04-06 17:59:19,003 - INFO - Command received: turn up volume
+2026-04-06 17:59:19,004 - INFO - Classified intent: volume_up
+2026-04-06 17:59:19,280 - INFO - Response: Volume increased (using PowerShell)
+2026-04-06 17:59:37,872 - INFO - Command received: turn down volume to 1
+2026-04-06 17:59:37,872 - INFO - Classified intent: volume_down
+2026-04-06 17:59:38,118 - INFO - Response: Volume decreased (using PowerShell)
+2026-04-06 18:02:59,409 - INFO - Model loaded successfully
+2026-04-06 18:02:59,409 - INFO - Command received: turn down volume to 50
+2026-04-06 18:02:59,410 - INFO - Classified intent: volume_down
+2026-04-06 18:02:59,667 - INFO - Response: Volume set to 50%
+2026-04-06 18:02:59,667 - INFO - Command received: turn up volume to 80
+2026-04-06 18:02:59,668 - INFO - Classified intent: volume_up
+2026-04-06 18:02:59,692 - INFO - Response: Volume set to 80%
+2026-04-06 18:02:59,692 - INFO - Command received: set volume to 30
+2026-04-06 18:02:59,692 - INFO - Classified intent: volume_down
+2026-04-06 18:02:59,716 - INFO - Response: Volume set to 30%
+2026-04-06 18:02:59,716 - INFO - Command received: mute
+2026-04-06 18:02:59,717 - INFO - Classified intent: volume_mute
+2026-04-06 18:02:59,740 - INFO - Response: Volume muted
+2026-04-06 18:02:59,741 - INFO - Command received: unmute
+2026-04-06 18:02:59,741 - INFO - Classified intent: volume_unmute
+2026-04-06 18:02:59,764 - INFO - Response: Volume unmuted
+2026-04-06 18:03:49,306 - INFO - Model loaded successfully
+2026-04-06 18:04:47,952 - INFO - Command received: turn down the volume
+2026-04-06 18:04:47,953 - INFO - Classified intent: volume_down
+2026-04-06 18:04:48,464 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:05:02,640 - INFO - Command received: turn up the volume to 70
+2026-04-06 18:05:02,640 - INFO - Classified intent: volume_up
+2026-04-06 18:05:02,643 - INFO - Response: Could not set exact volume: [WinError 2] The system cannot find the file specified
+2026-04-06 18:05:14,521 - INFO - Command received: turn up the volume to 70
+2026-04-06 18:05:14,522 - INFO - Classified intent: volume_up
+2026-04-06 18:05:14,524 - INFO - Response: Could not set exact volume: [WinError 2] The system cannot find the file specified
+2026-04-06 18:05:58,678 - INFO - Model loaded successfully
+2026-04-06 18:05:58,680 - INFO - Model loaded successfully
+2026-04-06 18:06:10,227 - INFO - Model loaded successfully
+2026-04-06 18:06:10,227 - INFO - Command received: turn down volume to 1
+2026-04-06 18:06:10,228 - INFO - Classified intent: volume_down
+2026-04-06 18:06:10,497 - INFO - Response: Volume set to 100%
+2026-04-06 18:06:10,497 - INFO - Command received: turn down volume to 50
+2026-04-06 18:06:10,498 - INFO - Classified intent: volume_down
+2026-04-06 18:06:10,522 - INFO - Response: Volume set to 50%
+2026-04-06 18:06:10,522 - INFO - Command received: turn up volume to 50
+2026-04-06 18:06:10,522 - INFO - Classified intent: volume_up
+2026-04-06 18:06:10,545 - INFO - Response: Volume set to 50%
+2026-04-06 18:06:10,545 - INFO - Command received: set volume to 20
+2026-04-06 18:06:10,546 - INFO - Classified intent: volume_down
+2026-04-06 18:06:10,569 - INFO - Response: Volume set to 20%
+2026-04-06 18:06:10,569 - INFO - Command received: volume up
+2026-04-06 18:06:10,569 - INFO - Classified intent: volume_up
+2026-04-06 18:06:10,594 - INFO - Response: Volume adjusted to 30%
+2026-04-06 18:06:31,588 - INFO - Model loaded successfully
+2026-04-06 18:06:31,588 - INFO - Command received: turn down volume to 1
+2026-04-06 18:06:31,589 - INFO - Classified intent: volume_down
+2026-04-06 18:06:31,854 - INFO - Response: Volume set to 100%
+2026-04-06 18:06:31,855 - INFO - Command received: turn down volume to 50
+2026-04-06 18:06:31,855 - INFO - Classified intent: volume_down
+2026-04-06 18:06:31,879 - INFO - Response: Volume set to 50%
+2026-04-06 18:06:31,879 - INFO - Command received: turn up volume to 80
+2026-04-06 18:06:31,879 - INFO - Classified intent: volume_up
+2026-04-06 18:06:31,903 - INFO - Response: Volume set to 80%
+2026-04-06 18:06:31,903 - INFO - Command received: set volume to 20
+2026-04-06 18:06:31,903 - INFO - Classified intent: volume_down
+2026-04-06 18:06:31,927 - INFO - Response: Volume set to 20%
+2026-04-06 18:06:47,886 - INFO - Model loaded successfully
+2026-04-06 18:06:47,886 - INFO - Command received: turn down volume to 1
+2026-04-06 18:06:47,887 - INFO - Classified intent: volume_down
+2026-04-06 18:06:48,154 - INFO - Response: Volume set to 1%
+2026-04-06 18:06:48,154 - INFO - Command received: turn down volume to 50
+2026-04-06 18:06:48,155 - INFO - Classified intent: volume_down
+2026-04-06 18:06:48,178 - INFO - Response: Volume set to 50%
+2026-04-06 18:06:48,178 - INFO - Command received: turn up volume to 80
+2026-04-06 18:06:48,179 - INFO - Classified intent: volume_up
+2026-04-06 18:06:48,202 - INFO - Response: Volume set to 80%
+2026-04-06 18:06:48,202 - INFO - Command received: set volume to 20
+2026-04-06 18:06:48,202 - INFO - Classified intent: volume_down
+2026-04-06 18:06:48,227 - INFO - Response: Volume set to 20%
+2026-04-06 18:07:14,681 - INFO - Model loaded successfully
+2026-04-06 18:07:48,838 - INFO - Command received: volume down
+2026-04-06 18:07:48,839 - INFO - Classified intent: volume_down
+2026-04-06 18:07:49,111 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:50,536 - INFO - Command received: volume down
+2026-04-06 18:07:50,537 - INFO - Classified intent: volume_down
+2026-04-06 18:07:50,783 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:51,730 - INFO - Command received: volume down
+2026-04-06 18:07:51,730 - INFO - Classified intent: volume_down
+2026-04-06 18:07:51,991 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:53,203 - INFO - Command received: volume up
+2026-04-06 18:07:53,204 - INFO - Classified intent: volume_up
+2026-04-06 18:07:53,374 - INFO - Command received: volume up
+2026-04-06 18:07:53,375 - INFO - Classified intent: volume_up
+2026-04-06 18:07:53,485 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:53,573 - INFO - Command received: volume up
+2026-04-06 18:07:53,574 - INFO - Classified intent: volume_up
+2026-04-06 18:07:53,642 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:53,737 - INFO - Command received: volume up
+2026-04-06 18:07:53,737 - INFO - Classified intent: volume_up
+2026-04-06 18:07:53,859 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:53,951 - INFO - Command received: volume up
+2026-04-06 18:07:53,952 - INFO - Classified intent: volume_up
+2026-04-06 18:07:54,022 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:54,118 - INFO - Command received: volume up
+2026-04-06 18:07:54,119 - INFO - Classified intent: volume_up
+2026-04-06 18:07:54,243 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:54,407 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:54,524 - INFO - Command received: volume up
+2026-04-06 18:07:54,525 - INFO - Classified intent: volume_up
+2026-04-06 18:07:54,597 - INFO - Command received: volume up
+2026-04-06 18:07:54,598 - INFO - Classified intent: volume_up
+2026-04-06 18:07:54,703 - INFO - Command received: volume up
+2026-04-06 18:07:54,704 - INFO - Classified intent: volume_up
+2026-04-06 18:07:54,830 - INFO - Command received: volume up
+2026-04-06 18:07:54,830 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:54,831 - INFO - Classified intent: volume_up
+2026-04-06 18:07:54,931 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:55,026 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:55,120 - INFO - Command received: volume up
+2026-04-06 18:07:55,121 - INFO - Classified intent: volume_up
+2026-04-06 18:07:55,129 - INFO - Command received: volume up
+2026-04-06 18:07:55,130 - INFO - Classified intent: volume_up
+2026-04-06 18:07:55,213 - INFO - Command received: volume up
+2026-04-06 18:07:55,214 - INFO - Classified intent: volume_up
+2026-04-06 18:07:55,231 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:55,347 - INFO - Command received: volume up
+2026-04-06 18:07:55,348 - INFO - Classified intent: volume_up
+2026-04-06 18:07:55,464 - INFO - Command received: volume up
+2026-04-06 18:07:55,465 - INFO - Classified intent: volume_up
+2026-04-06 18:07:55,474 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:55,577 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:55,578 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:55,759 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:55,843 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:55,924 - INFO - Command received: volume up
+2026-04-06 18:07:55,924 - INFO - Classified intent: volume_up
+2026-04-06 18:07:56,133 - INFO - Command received: volume up
+2026-04-06 18:07:56,134 - INFO - Classified intent: volume_up
+2026-04-06 18:07:56,145 - INFO - Command received: volume up
+2026-04-06 18:07:56,146 - INFO - Classified intent: volume_up
+2026-04-06 18:07:56,208 - INFO - Command received: volume up
+2026-04-06 18:07:56,209 - INFO - Classified intent: volume_up
+2026-04-06 18:07:56,226 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:56,358 - INFO - Command received: volume up
+2026-04-06 18:07:56,359 - INFO - Classified intent: volume_up
+2026-04-06 18:07:56,458 - INFO - Command received: volume up
+2026-04-06 18:07:56,459 - INFO - Classified intent: volume_up
+2026-04-06 18:07:56,496 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:56,622 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:56,623 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:56,723 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:56,970 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:57,205 - INFO - Command received: volume up
+2026-04-06 18:07:57,205 - INFO - Classified intent: volume_up
+2026-04-06 18:07:57,302 - INFO - Command received: volume up
+2026-04-06 18:07:57,303 - INFO - Classified intent: volume_up
+2026-04-06 18:07:57,345 - INFO - Command received: volume up
+2026-04-06 18:07:57,345 - INFO - Classified intent: volume_up
+2026-04-06 18:07:57,465 - INFO - Command received: volume up
+2026-04-06 18:07:57,466 - INFO - Classified intent: volume_up
+2026-04-06 18:07:57,587 - INFO - Command received: volume up
+2026-04-06 18:07:57,588 - INFO - Classified intent: volume_up
+2026-04-06 18:07:57,606 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:57,713 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:57,713 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:57,804 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:57,969 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-06 18:07:58,130 - INFO - Command received: volume up
+2026-04-06 18:07:58,131 - INFO - Classified intent: volume_up
+2026-04-06 18:07:58,376 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:45:58,033 - INFO - Model loaded successfully
+2026-04-13 16:46:24,867 - INFO - Command received: search web
+2026-04-13 16:46:24,869 - INFO - Classified intent: search_web
+2026-04-13 16:46:24,887 - INFO - Response: Opened Chrome and searched for: 
+2026-04-13 16:46:38,278 - INFO - Command received: system info
+2026-04-13 16:46:38,280 - INFO - Classified intent: open_app
+2026-04-13 16:46:38,280 - INFO - Response: App not recognized
+2026-04-13 16:46:51,709 - INFO - Command received: list files
+2026-04-13 16:46:51,711 - INFO - Classified intent: list_files
+2026-04-13 16:46:51,712 - INFO - Response: ['agent.log', 'config.json', 'intents.csv', 'jarvis_gui.py', 'jarvis_wake.py', 'model.pkl', 'new_file.txt', 'safe_agent.py', 'streamlit_gui.py', 'train_model.py', 'vectorizer.pkl', 'voice_agent.py', '__pycache__']
+2026-04-13 16:47:00,164 - INFO - Command received: volume up
+2026-04-13 16:47:00,165 - INFO - Classified intent: volume_up
+2026-04-13 16:47:01,371 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:47:04,374 - INFO - Command received: volume down
+2026-04-13 16:47:04,375 - INFO - Classified intent: volume_down
+2026-04-13 16:47:04,956 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:47:07,355 - INFO - Command received: unmute
+2026-04-13 16:47:07,355 - INFO - Classified intent: volume_unmute
+2026-04-13 16:47:07,359 - INFO - Response: Volume control not available: [WinError 2] The system cannot find the file specified
+2026-04-13 16:47:09,779 - INFO - Command received: mute
+2026-04-13 16:47:09,780 - INFO - Classified intent: volume_mute
+2026-04-13 16:47:10,441 - INFO - Response: Volume muted (using PowerShell)
+2026-04-13 16:47:12,048 - INFO - Command received: mute
+2026-04-13 16:47:12,049 - INFO - Classified intent: volume_mute
+2026-04-13 16:47:12,349 - INFO - Response: Volume muted (using PowerShell)
+2026-04-13 16:47:31,780 - INFO - Command received: r
+2026-04-13 16:47:31,781 - INFO - Classified intent: volume_down
+2026-04-13 16:47:32,139 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:47:53,207 - INFO - Special command result: Opened Chrome and searched for: jio hotstar
+2026-04-13 16:48:22,751 - INFO - Command received: open vs code
+2026-04-13 16:48:22,752 - INFO - Classified intent: open_app
+2026-04-13 16:48:22,752 - INFO - Response: App not recognized
+2026-04-13 16:48:29,369 - INFO - Command received: open vs code
+2026-04-13 16:48:29,370 - INFO - Classified intent: open_app
+2026-04-13 16:48:29,370 - INFO - Response: App not recognized
+2026-04-13 16:48:46,037 - INFO - Command received: open excel
+2026-04-13 16:48:46,038 - INFO - Classified intent: open_app
+2026-04-13 16:48:46,055 - INFO - Response: Opened Excel
+2026-04-13 16:52:22,516 - INFO - Command received: open chrome
+2026-04-13 16:52:22,517 - INFO - Classified intent: open_app
+2026-04-13 16:52:22,534 - INFO - Response: Opened Chrome
+2026-04-13 16:52:32,450 - INFO - Command received: search web
+2026-04-13 16:52:32,452 - INFO - Classified intent: search_web
+2026-04-13 16:52:32,460 - INFO - Response: Opened Chrome and searched for: 
+2026-04-13 16:52:35,833 - INFO - Command received: list files
+2026-04-13 16:52:35,834 - INFO - Classified intent: list_files
+2026-04-13 16:52:35,836 - INFO - Response: ['agent.log', 'config.json', 'intents.csv', 'jarvis_gui.py', 'jarvis_wake.py', 'model.pkl', 'new_file.txt', 'safe_agent.py', 'streamlit_gui.py', 'train_model.py', 'vectorizer.pkl', 'voice_agent.py', '__pycache__']
+2026-04-13 16:52:45,767 - INFO - Command received: volume up
+2026-04-13 16:52:45,768 - INFO - Classified intent: volume_up
+2026-04-13 16:52:46,156 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:47,506 - INFO - Command received: volume up
+2026-04-13 16:52:47,508 - INFO - Classified intent: volume_up
+2026-04-13 16:52:47,835 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:48,330 - INFO - Command received: volume up
+2026-04-13 16:52:48,332 - INFO - Classified intent: volume_up
+2026-04-13 16:52:48,623 - INFO - Command received: volume up
+2026-04-13 16:52:48,626 - INFO - Classified intent: volume_up
+2026-04-13 16:52:48,666 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:48,852 - INFO - Command received: volume up
+2026-04-13 16:52:48,853 - INFO - Classified intent: volume_up
+2026-04-13 16:52:48,994 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:49,169 - INFO - Command received: volume up
+2026-04-13 16:52:49,170 - INFO - Classified intent: volume_up
+2026-04-13 16:52:49,224 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:49,394 - INFO - Command received: volume up
+2026-04-13 16:52:49,395 - INFO - Classified intent: volume_up
+2026-04-13 16:52:49,418 - INFO - Command received: volume up
+2026-04-13 16:52:49,420 - INFO - Classified intent: volume_up
+2026-04-13 16:52:49,522 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:49,629 - INFO - Command received: volume up
+2026-04-13 16:52:49,630 - INFO - Classified intent: volume_up
+2026-04-13 16:52:49,698 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:49,795 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:49,895 - INFO - Command received: volume up
+2026-04-13 16:52:49,896 - INFO - Classified intent: volume_up
+2026-04-13 16:52:49,925 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:50,042 - INFO - Command received: volume up
+2026-04-13 16:52:50,043 - INFO - Classified intent: volume_up
+2026-04-13 16:52:50,170 - INFO - Command received: volume up
+2026-04-13 16:52:50,170 - INFO - Classified intent: volume_up
+2026-04-13 16:52:50,191 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:50,318 - INFO - Command received: volume up
+2026-04-13 16:52:50,319 - INFO - Classified intent: volume_up
+2026-04-13 16:52:50,336 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:50,472 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:50,578 - INFO - Command received: volume up
+2026-04-13 16:52:50,579 - INFO - Classified intent: volume_up
+2026-04-13 16:52:50,608 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:50,859 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:51,034 - INFO - Command received: volume up
+2026-04-13 16:52:51,035 - INFO - Classified intent: volume_up
+2026-04-13 16:52:51,296 - INFO - Command received: volume up
+2026-04-13 16:52:51,297 - INFO - Classified intent: volume_up
+2026-04-13 16:52:51,306 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:51,574 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:52,834 - INFO - Command received: volume down
+2026-04-13 16:52:52,835 - INFO - Classified intent: volume_down
+2026-04-13 16:52:53,045 - INFO - Command received: volume down
+2026-04-13 16:52:53,046 - INFO - Classified intent: volume_down
+2026-04-13 16:52:53,178 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:53,353 - INFO - Command received: volume down
+2026-04-13 16:52:53,354 - INFO - Classified intent: volume_down
+2026-04-13 16:52:53,381 - INFO - Command received: volume down
+2026-04-13 16:52:53,382 - INFO - Classified intent: volume_down
+2026-04-13 16:52:53,413 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:53,629 - INFO - Command received: volume down
+2026-04-13 16:52:53,630 - INFO - Classified intent: volume_down
+2026-04-13 16:52:53,756 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:53,912 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:54,009 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:54,098 - INFO - Command received: volume down
+2026-04-13 16:52:54,099 - INFO - Classified intent: volume_down
+2026-04-13 16:52:54,233 - INFO - Command received: volume down
+2026-04-13 16:52:54,234 - INFO - Classified intent: volume_down
+2026-04-13 16:52:54,296 - INFO - Command received: volume down
+2026-04-13 16:52:54,297 - INFO - Classified intent: volume_down
+2026-04-13 16:52:54,386 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:54,499 - INFO - Command received: volume down
+2026-04-13 16:52:54,499 - INFO - Classified intent: volume_down
+2026-04-13 16:52:54,527 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:54,627 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:54,779 - INFO - Command received: volume down
+2026-04-13 16:52:54,780 - INFO - Classified intent: volume_down
+2026-04-13 16:52:54,795 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:54,918 - INFO - Command received: volume down
+2026-04-13 16:52:54,920 - INFO - Classified intent: volume_down
+2026-04-13 16:52:55,062 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:55,166 - INFO - Command received: volume down
+2026-04-13 16:52:55,166 - INFO - Classified intent: volume_down
+2026-04-13 16:52:55,204 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:55,318 - INFO - Command received: volume down
+2026-04-13 16:52:55,319 - INFO - Classified intent: volume_down
+2026-04-13 16:52:55,459 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:55,574 - INFO - Command received: volume down
+2026-04-13 16:52:55,574 - INFO - Classified intent: volume_down
+2026-04-13 16:52:55,614 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:55,733 - INFO - Command received: volume down
+2026-04-13 16:52:55,735 - INFO - Classified intent: volume_down
+2026-04-13 16:52:55,876 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:55,998 - INFO - Command received: volume down
+2026-04-13 16:52:55,999 - INFO - Classified intent: volume_down
+2026-04-13 16:52:56,025 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:56,143 - INFO - Command received: volume down
+2026-04-13 16:52:56,143 - INFO - Classified intent: volume_down
+2026-04-13 16:52:56,290 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:56,413 - INFO - Command received: volume down
+2026-04-13 16:52:56,414 - INFO - Classified intent: volume_down
+2026-04-13 16:52:56,438 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:56,563 - INFO - Command received: volume down
+2026-04-13 16:52:56,565 - INFO - Classified intent: volume_down
+2026-04-13 16:52:56,720 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:56,830 - INFO - Command received: volume down
+2026-04-13 16:52:56,830 - INFO - Classified intent: volume_down
+2026-04-13 16:52:56,862 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:57,110 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:58,261 - INFO - Command received: volume up
+2026-04-13 16:52:58,262 - INFO - Classified intent: volume_up
+2026-04-13 16:52:58,585 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:59,079 - INFO - Command received: volume up
+2026-04-13 16:52:59,080 - INFO - Classified intent: volume_up
+2026-04-13 16:52:59,285 - INFO - Command received: volume up
+2026-04-13 16:52:59,286 - INFO - Classified intent: volume_up
+2026-04-13 16:52:59,416 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:59,562 - INFO - Command received: volume up
+2026-04-13 16:52:59,563 - INFO - Classified intent: volume_up
+2026-04-13 16:52:59,622 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:52:59,843 - INFO - Response: Volume adjusted (using PowerShell)
+2026-04-13 16:53:00,716 - INFO - Command received: open chrome
+2026-04-13 16:53:00,718 - INFO - Classified intent: open_app
+2026-04-13 16:53:00,726 - INFO - Response: Opened Chrome
+2026-04-13 16:53:02,665 - INFO - Command received: open chrome
+2026-04-13 16:53:02,666 - INFO - Classified intent: open_app
+2026-04-13 16:53:02,675 - INFO - Response: Opened Chrome
+2026-04-13 16:53:03,584 - INFO - Command received: open chrome
+2026-04-13 16:53:03,586 - INFO - Classified intent: open_app
+2026-04-13 16:53:03,595 - INFO - Response: Opened Chrome
+2026-04-13 16:53:07,272 - INFO - Command received: system info
+2026-04-13 16:53:07,273 - INFO - Classified intent: open_app
+2026-04-13 16:53:07,274 - INFO - Response: App not recognized
+2026-04-13 16:53:15,667 - INFO - Command received: list files
+2026-04-13 16:53:15,667 - INFO - Classified intent: list_files
+2026-04-13 16:53:15,670 - INFO - Response: ['agent.log', 'config.json', 'intents.csv', 'jarvis_gui.py', 'jarvis_wake.py', 'model.pkl', 'new_file.txt', 'safe_agent.py', 'streamlit_gui.py', 'train_model.py', 'vectorizer.pkl', 'voice_agent.py', '__pycache__']
+2026-04-13 16:53:18,844 - INFO - Command received: mute
+2026-04-13 16:53:18,845 - INFO - Classified intent: volume_mute
+2026-04-13 16:53:19,198 - INFO - Response: Volume muted (using PowerShell)
+2026-04-13 16:53:21,506 - INFO - Command received: system info
+2026-04-13 16:53:21,507 - INFO - Classified intent: open_app
+2026-04-13 16:53:21,508 - INFO - Response: App not recognized
+2026-04-13 16:53:29,029 - INFO - Command received: Open notepad
+2026-04-13 16:53:29,031 - INFO - Classified intent: open_app
+2026-04-13 16:53:29,048 - INFO - Response: Opened Notepad
+2026-04-13 16:53:41,931 - INFO - Command received: Open excel
+2026-04-13 16:53:41,931 - INFO - Classified intent: open_app
+2026-04-13 16:53:41,940 - INFO - Response: Opened Excel
+2026-04-13 16:53:59,955 - INFO - Command received: Open edge
+2026-04-13 16:53:59,956 - INFO - Classified intent: open_app
+2026-04-13 16:53:59,979 - INFO - Response: Opened Edge
+2026-04-13 16:54:04,817 - INFO - Command received: search web
+2026-04-13 16:54:04,818 - INFO - Classified intent: search_web
+2026-04-13 16:54:04,827 - INFO - Response: Opened Chrome and searched for: 
+2026-04-13 16:54:53,377 - INFO - Command received: system info
+2026-04-13 16:54:53,378 - INFO - Classified intent: open_app
+2026-04-13 16:54:53,378 - INFO - Response: App not recognized
+2026-04-13 16:54:55,409 - INFO - Command received: open chrome
+2026-04-13 16:54:55,410 - INFO - Classified intent: open_app
+2026-04-13 16:54:55,419 - INFO - Response: Opened Chrome
+2026-04-13 16:54:55,665 - INFO - Command received: open chrome
+2026-04-13 16:54:55,666 - INFO - Classified intent: open_app
+2026-04-13 16:54:55,676 - INFO - Response: Opened Chrome
+2026-04-13 16:55:01,088 - INFO - Command received: list files
+2026-04-13 16:55:01,089 - INFO - Classified intent: list_files
+2026-04-13 16:55:01,091 - INFO - Response: ['agent.log', 'config.json', 'intents.csv', 'jarvis_gui.py', 'jarvis_wake.py', 'model.pkl', 'new_file.txt', 'safe_agent.py', 'streamlit_gui.py', 'train_model.py', 'vectorizer.pkl', 'voice_agent.py', '__pycache__']
+2026-04-13 16:56:23,600 - INFO - Command received: Open edge
+2026-04-13 16:56:23,601 - INFO - Classified intent: open_app
+2026-04-13 16:56:23,606 - INFO - Response: Opened Edge
+2026-04-13 17:02:22,051 - INFO - Model loaded successfully
+2026-04-13 17:05:25,604 - INFO - Model loaded successfully
+2026-04-13 17:06:15,321 - INFO - Model loaded successfully
+2026-04-13 17:08:42,121 - INFO - Model loaded successfully
+2026-04-13 17:09:01,128 - INFO - Model loaded successfully
+2026-04-13 17:09:08,614 - INFO - Model loaded successfully
+2026-04-13 17:11:45,530 - INFO - Model loaded successfully
+2026-04-13 17:14:31,806 - INFO - Model loaded successfully
+2026-04-13 17:16:58,493 - INFO - Model loaded successfully
+2026-05-16 09:01:57,744 - INFO - Model loaded successfully
+2026-05-16 09:07:22,904 - INFO - Model loaded successfully
+2026-05-16 09:12:51,937 - INFO - Model loaded successfully
+2026-05-16 09:14:16,183 - INFO - Command received: open excel
+2026-05-16 09:14:16,185 - INFO - Classified intent: open_app
+2026-05-16 09:14:16,199 - INFO - Response: Opened Excel
+2026-05-16 09:15:49,500 - INFO - Model loaded successfully
+2026-05-16 09:15:49,500 - INFO - Command received: open chrome
+2026-05-16 09:15:49,501 - INFO - Classified intent: open_app
+2026-05-16 09:15:49,512 - INFO - Response: Opened Chrome
+2026-05-16 09:18:04,667 - INFO - Model loaded successfully
+2026-05-16 09:18:04,667 - INFO - Command received: open chrome
+2026-05-16 09:18:04,668 - INFO - Classified intent: open_app
+2026-05-16 09:18:04,680 - INFO - Response: Opened Chrome
+2026-05-16 09:18:04,697 - INFO - Command received: open browser
+2026-05-16 09:18:04,698 - INFO - Classified intent: open_app
+2026-05-16 09:18:04,806 - INFO - Response: Opened the default browser
+2026-05-16 09:18:04,806 - INFO - Command received: open edge
+2026-05-16 09:18:04,807 - INFO - Classified intent: open_app
+2026-05-16 09:18:04,825 - INFO - Response: Opened Edge
+2026-05-16 09:19:28,568 - INFO - Model loaded successfully
+2026-05-16 09:23:16,458 - INFO - Model loaded successfully
+2026-05-16 09:26:55,941 - INFO - Model loaded successfully
+2026-05-16 09:31:40,769 - INFO - Model loaded successfully
+2026-05-16 09:37:23,809 - INFO - Model loaded successfully
+2026-05-16 09:38:26,439 - INFO - Model loaded successfully
+2026-05-16 09:41:09,748 - INFO - Model loaded successfully
+2026-05-16 09:44:00,100 - INFO - Model loaded successfully
+2026-05-16 09:46:35,772 - INFO - Model loaded successfully
+2026-05-16 09:47:18,486 - INFO - Model loaded successfully
+2026-05-16 09:53:32,086 - INFO - Command received: o
+2026-05-16 09:53:32,087 - INFO - Classified intent: volume_down
+2026-05-16 09:53:34,068 - INFO - Response: Volume adjusted (using PowerShell)
+2026-05-16 09:53:34,148 - INFO - Command received: o
+2026-05-16 09:53:34,149 - INFO - Classified intent: volume_down
+2026-05-16 09:53:35,138 - INFO - Response: Volume adjusted (using PowerShell)
+2026-05-16 09:55:05,749 - INFO - Command received: o
+2026-05-16 09:55:05,750 - INFO - Classified intent: volume_down
+2026-05-16 09:55:06,690 - INFO - Response: Volume adjusted (using PowerShell)
+2026-05-16 09:55:06,773 - INFO - Command received: o
+2026-05-16 09:55:06,774 - INFO - Classified intent: volume_down
+2026-05-16 09:55:07,726 - INFO - Response: Volume adjusted (using PowerShell)
+2026-05-16 09:59:03,067 - INFO - Model loaded successfully
